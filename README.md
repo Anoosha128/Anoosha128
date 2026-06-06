@@ -40,31 +40,11 @@ Goal:
   <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,python,html,css,bootstrap,react,nodejs,express,mysql,mongodb,git,github,vscode,linux,figma,postman,docker" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/your-profile  
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your-email@example.com
+- LinkedIn: https://www.linkedin.com/in/anoosha-aman-a11011358 
+- GitHub: https://github.com/Anoosha128 
+- Email: anoosha.amanmhr@gmail.com
 
 
 ## 💡 Quote
