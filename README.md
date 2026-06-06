@@ -48,12 +48,8 @@ Goal:
 ## ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,JavaScript,python,Bootstrap,mysql,SQL Server,html,css,git,github,vscode,visual stdio,linux,AI,DBMS,DSA,OOP,Windows Forms,Web development,Machine Learning" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,python,html,css,bootstrap,react,nodejs,express,mysql,mongodb,git,github,vscode,linux,figma,postman,docker" />
 </p>
-
----
 
 <div align="center">
 
