@@ -55,20 +55,6 @@ Goal:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anoosha128&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<br><br>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoosha128&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### ✨ "Learning, Building, Growing."
