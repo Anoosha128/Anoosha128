@@ -1,7 +1,6 @@
 <div align="center">
 
-# 👩‍💻 _**Anoosha Aman_
-**
+# 👩‍💻 Anoosha Aman
 ### Software Engineering Student | Python Developer | Web Development
 
 </div>
