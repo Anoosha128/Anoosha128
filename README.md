@@ -2,7 +2,7 @@
 
 # 👩‍💻 Anoosha Aman
 
-### Software Engineering Student | Developer | Problem Solver
+### Software Engineering Student | Python Developer | Web Development
 
 </div>
 
