@@ -49,7 +49,7 @@ Goal:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,python,mysql,html,css,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,JavaScript,python,Bootstrap,mysql,SQL Server,html,css,git,github,vscode,visual stdio,linux,AI,DBMS,DSA,OOP,Windows Forms,Web development,Machine Learning" />
 
 </p>
 
