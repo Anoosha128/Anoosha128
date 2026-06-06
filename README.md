@@ -6,21 +6,34 @@
 
 </div>
 
----
+## 👩‍💻 About Me
 
-## 🚀 About Me
+🎓 Software Engineering Student
 
-🔹 BS Computer Science Student
+💻 Passionate about Software Development and Problem Solving
 
-🔹 Passionate about Artificial Intelligence & Machine Learning
+🌱 Currently Learning
 
-🔹 Learning C++, Python, SQL, Data Structures & Algorithms
+- C++
+- C#
+- Java
+- Python
+- SQL & Database Systems
+- HTML, CSS, JavaScript
+- Data Structures & Algorithms
+- Software Design & Architecture
 
-🔹 Exploring Open Source and Real-World Projects
+🚀 Interested In
 
-🔹 Goal: Become an AI Engineer
+- Software Development
+- Web Development
+- Artificial Intelligence
+- Object-Oriented Programming
+- Database Management
 
----
+🎯 Goal
+
+To become a skilled Software Engineer and build impactful software solutions.
 
 ## 🌐 Socials
 
@@ -31,54 +44,50 @@
 </p>
 
 ---
-
 ## 💻 Tech Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
 
 </p>
-
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anoosha128&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anoosha128&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoosha128&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anoosha128&layout=compact&theme=tokyonight"/>
 
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anoosha128&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Anoosha128&theme=tokyonight"/>
 
 </p>
-
----
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anoosha128&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Anoosha128&theme=tokyonight&row=2&column=4"/>
 
 </p>
-
----
 
 ## 📈 Contribution Graph
 
