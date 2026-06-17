@@ -36,7 +36,7 @@ Goal:
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,python,html,css,bootstrap,react,nodejs,,mysql,mongodb,git,github,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,python,html,css,bootstrap,react,nodejs,,mysql,mongodb,git,github,vscode,linux,figma"/>
 </p>
 
 ## 🌐 Connect With Me
