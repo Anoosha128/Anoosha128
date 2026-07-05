@@ -6,9 +6,6 @@
 </div>
 
 ---
-
-## 🌸 About Me
-
 # 💫 About Me:
 Name: Anoosha Aman<br>Location: Pakistan<br><br>- 🎓 Software Engineering Student  <br>- 💻 Passionate about Coding & Problem Solving  <br>- 🌱 Currently learning **C++, C#, Java, Python, Web Development, AI**  <br>- 🎯 Goal: Become a Python Developer  <br>- 🚀 Interested in AI, Python developer, Web, and Software Development <br><br>Goal:<br>  Build useful software and continuously improve as an engineer.
 
